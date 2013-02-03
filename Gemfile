@@ -1,7 +1,7 @@
 source "http://rubygems.org"
 
-gem 'bundler', "~>1.0.10"
-gem "rails", "2.3.11"
+gem 'bundler'
+gem "rails", "2.3.16"
 gem "mysql"
 gem "erubis"
 gem "rake"
