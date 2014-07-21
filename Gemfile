@@ -1,3 +1,4 @@
+Encoding.default_internal = Encoding::UTF_8
 source "http://rubygems.org"
 
 gem 'bundler'
